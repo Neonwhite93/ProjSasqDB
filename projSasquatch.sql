@@ -5,10 +5,10 @@
 --Comment for each create table statement and insert group
 
 -- Project Sasquatch
--- Created: Donovan Miller 8/11/2017
--- Edited by: 
+-- Donovan Miller, 8/11/2017
+-- Edited by: Donovan Miller 9/6/17
 
--- Drops and removes the tables.
+-- Drops/removes the tables.
 Drop Table Rep_in_set cascade constraints;
 
 Drop Table Part_of_body cascade constraints;
