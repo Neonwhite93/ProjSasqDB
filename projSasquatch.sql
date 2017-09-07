@@ -1,9 +1,3 @@
---Comment block at top of each page
---Project Name, Date created
---Note within top block for each edit (who, when, what)
---e.g. -Nathan 8/19/17 (added to conventions)
---Comment for each create table statement and insert group
-
 -- Project Sasquatch
 -- Donovan Miller, 8/11/2017
 -- Edited by: Donovan Miller 9/6/17
