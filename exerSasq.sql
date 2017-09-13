@@ -36,58 +36,58 @@ values
 -- and number of sets in integers
 -- into the The_set table 
 -- plate warmups (set id, exrcise id, # of sets)
-insert into The_set
-values
-("10001", "00001", 1);
+--insert into The_set
+--values
+--("10001", "00001", 1);
 
 -- push-ups
-insert into The_set
-values
-("10002", "00002", 5);
+--insert into The_set
+--values
+--("10002", "00002", 5);
 
 -- pull-ups
-insert into The_set
-values
-("10003", "00003", 5);
+--insert into The_set
+--values
+--("10003", "00003", 5);
 
 -- back squates
-insert into The_set
-values
-("10004", "00004", 5);
+--insert into The_set
+--values
+--("10004", "00004", 5);
 
 -- planks
-insert into The_set
-values
-("10005", "00005", 3);
+--insert into The_set
+--values
+--("10005", "00005", 3);
 
 
 -- This Section inserts the
 -- 
 
 -- plate warmups
-insert into Rep_in_set
-values
-("20001", "10001", 5, 10, 15);
+--insert into Rep_in_set
+--values
+--("20001", "10001", 5, 10, 15);
 
 -- push-ups
-insert into Rep_in_set
-values
-("20002", "10002", 5, 0, 50);
+--insert into Rep_in_set
+--values
+--("20002", "10002", 5, 0, 50);
 
 -- pull-ups
-insert into Rep_in_set
-values
-("20003", "10003", 5, 10, 60);
+--insert into Rep_in_set
+--values
+--("20003", "10003", 5, 10, 60);
 
 -- back squates
-insert into Rep_in_set
-values
-("20004", "10004", 5, 140, 80);
+--insert into Rep_in_set
+--values
+--("20004", "10004", 5, 140, 80);
 
 -- planks
-insert into Rep_in_set
-values
-("20005", "10005", 3, 45, 75);
+--insert into Rep_in_set
+--values
+--("20005", "10005", 3, 45, 75);
 
 
 --
